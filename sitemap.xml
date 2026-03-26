@@ -2,7 +2,12 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/bats/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/23-2/
         </loc>
     </url>
     <url>
@@ -12,7 +17,12 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
+            http://localhost:8000/posts/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/contact-page/
         </loc>
     </url>
     <url>
